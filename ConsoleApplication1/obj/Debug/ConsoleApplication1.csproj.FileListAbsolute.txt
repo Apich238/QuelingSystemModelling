@@ -1,0 +1,6 @@
+C:\Users\Апарнев А Н\Documents\Dropbox\институт\системы массового обслуживания\RZ\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Апарнев А Н\Documents\Dropbox\институт\системы массового обслуживания\RZ\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Апарнев А Н\Documents\Dropbox\институт\системы массового обслуживания\RZ\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Апарнев А Н\Documents\Dropbox\институт\системы массового обслуживания\RZ\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Апарнев А Н\Documents\Dropbox\институт\системы массового обслуживания\RZ\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Апарнев А Н\Documents\Dropbox\институт\системы массового обслуживания\RZ\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache

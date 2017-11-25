@@ -1,0 +1,9 @@
+C:\Users\Апарнев А Н\Documents\Dropbox\институт\системы массового обслуживания\RZ\RZ\bin\Debug\RZ.exe.config
+C:\Users\Апарнев А Н\Documents\Dropbox\институт\системы массового обслуживания\RZ\RZ\bin\Debug\RZ.exe
+C:\Users\Апарнев А Н\Documents\Dropbox\институт\системы массового обслуживания\RZ\RZ\bin\Debug\RZ.pdb
+C:\Users\Апарнев А Н\Documents\Dropbox\институт\системы массового обслуживания\RZ\RZ\obj\Debug\RZ.csprojResolveAssemblyReference.cache
+C:\Users\Апарнев А Н\Documents\Dropbox\институт\системы массового обслуживания\RZ\RZ\obj\Debug\RZ.Form1.resources
+C:\Users\Апарнев А Н\Documents\Dropbox\институт\системы массового обслуживания\RZ\RZ\obj\Debug\RZ.Properties.Resources.resources
+C:\Users\Апарнев А Н\Documents\Dropbox\институт\системы массового обслуживания\RZ\RZ\obj\Debug\RZ.csproj.GenerateResource.Cache
+C:\Users\Апарнев А Н\Documents\Dropbox\институт\системы массового обслуживания\RZ\RZ\obj\Debug\RZ.exe
+C:\Users\Апарнев А Н\Documents\Dropbox\институт\системы массового обслуживания\RZ\RZ\obj\Debug\RZ.pdb
